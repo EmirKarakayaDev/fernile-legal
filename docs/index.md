@@ -1,6 +1,6 @@
 # Yasal Bilgilendirme
 
-**Dil:** [English](index-en) | [Türkçe](index-tr)
+**Dil:** [English](index-en) | [Türkçe](index)
 
 *Son Güncelleme Tarihi: 3 Şubat 2026*
 
