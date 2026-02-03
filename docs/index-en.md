@@ -1,6 +1,6 @@
 # Legal Information
 
-**Language:** [English](index-en) | [Türkçe](index-tr)
+**Language:** [English](index-en) | [Türkçe](index)
 
 *Last Updated: February 3, 2026*
 
