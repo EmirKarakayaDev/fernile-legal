@@ -28,9 +28,14 @@ amacıyla kullanılır.
 Veriler, güvenli sunucular üzerinde saklanır ve yetkisiz erişime karşı korunur. Veriler, yalnızca gerekli olduğu süre boyunca tutulur.
 
 ## 5. Hesap Silme ve Veri Silme
-Kullanıcı, uygulama içinden hesabını silebilir. Hesap silme talebi sonrası:
-- Kullanıcı hesabı ve ilişkili veriler kalıcı olarak silinir
-- Yasal yükümlülükler kapsamında tutulması gereken veriler hariç tutulabilir
+Uygulama, hesap oluşturmadan da kullanılabilir. Hesap oluşturulmadan kullanılan özelliklere ait veriler (örneğin; Kur’an okuma ilerlemesi, son okunan yerler, zikir verileri, kaydedilen ayetler ve notlar, namaz vakti için seçilen şehir bilgileri) **kullanıcının cihazında yerel olarak saklanır**.
+
+Kullanıcılar, hesap oluşturmuş olmaları halinde, hesaplarını **uygulama içinden** silebilir. Güvenlik amacıyla, hesap silme işlemi tamamlanmadan önce kullanıcıdan **yeniden kimlik doğrulama (şifre doğrulaması)** istenir.
+
+Hesap silme işlemi sonrasında:
+- Kullanıcı hesabı ve hesaba bağlı olarak sunucu tarafında tutulan tüm veriler (örneğin, kimlik bilgileri ve yapay zekâ sohbet geçmişi) **kalıcı olarak silinir**.
+- Hesap silme işlemi, kullanıcının cihazında yerel olarak saklanan ve hesapla ilişkilendirilmeyen verileri **otomatik olarak silmez**.
+- Yasal yükümlülükler kapsamında saklanması zorunlu olan veriler hariç tutulabilir ve yalnızca ilgili mevzuatta belirtilen süre boyunca muhafaza edilir; bu sürenin sonunda güvenli şekilde silinir.
 
 ## 6. Üçüncü Taraf Hizmetler
 Uygulama; altyapı, analitik, yapay zekâ ve abonelik yönetimi için üçüncü taraf hizmetlerden yararlanabilir. Bu hizmetler kendi gizlilik politikalarına tabidir.
