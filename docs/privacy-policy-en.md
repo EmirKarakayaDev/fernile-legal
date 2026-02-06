@@ -26,10 +26,11 @@ Users may like, dislike, or submit feedback regarding AI-generated responses. Su
 ## 4. Data Storage
 Data is stored on secure servers and protected against unauthorized access. Data is retained only for as long as necessary for its intended purpose.
 
-## 5. Account Deletion and Data Removal
-Users may delete their accounts through the application at any time. Upon account deletion:
-- The user account and associated data are permanently deleted
-- Data required to be retained due to legal obligations may be excluded
+## Account Deletion and Data Removal
+Users may delete their accounts directly through the application at any time without contacting support.
+Upon account deletion:
+- The user account and all associated personal data are permanently deleted.
+- Data required to be retained due to legal obligations may be excluded and retained only for the legally required period.
 
 ## 6. Third-Party Services
 The application may utilize third-party services for infrastructure, analytics, artificial intelligence, and subscription management. These services are subject to their own privacy policies.
