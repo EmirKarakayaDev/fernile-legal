@@ -28,7 +28,9 @@ Data is stored on secure servers and protected against unauthorized access. Data
 
 ## 5. Account Deletion and Data Removal
 Users can delete their accounts and all associated personal data **directly from within the application** at any time, without contacting support.
+
 For security purposes, users are required to **re-authenticate (confirm their password)** before the account deletion process is completed.
+
 Upon account deletion:
 - The user account and all associated personal data are permanently deleted from our systems.
 - Any locally stored data on the user's device is removed.
