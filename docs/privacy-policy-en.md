@@ -31,6 +31,8 @@ The application can be used without creating an account. Data related to feature
 
 If a user has created an account, they may delete their account **directly from within the application**. For security purposes, users are required to **re-authenticate (confirm their password)** before the account deletion process is completed.
 
+Users who can no longer access the application can also request account and data deletion by contacting us via the email address provided in the Contact section of this policy.
+
 Upon account deletion:
 - The user account and all server-side data associated with the account (such as identity information and AI chat history) are **permanently deleted**.
 - Account deletion does **not automatically remove data stored locally on the user’s device** that is not associated with the account.
