@@ -27,13 +27,13 @@ Users may like, dislike, or submit feedback regarding AI-generated responses. Su
 Data is stored on secure servers and protected against unauthorized access. Data is retained only for as long as necessary for its intended purpose.
 
 ## 5. Account Deletion and Data Removal
-Users can delete their accounts and all associated personal data **directly from within the application** at any time, without contacting support.
+The application can be used without creating an account. Data related to features used without an account (such as Qur’an reading progress, last read positions, dhikr data, saved verses and notes, and selected city information for prayer times) is stored **locally on the user’s device**.
 
-For security purposes, users are required to **re-authenticate (confirm their password)** before the account deletion process is completed.
+If a user has created an account, they may delete their account **directly from within the application**. For security purposes, users are required to **re-authenticate (confirm their password)** before the account deletion process is completed.
 
 Upon account deletion:
-- The user account and all associated personal data are permanently deleted from our systems.
-- Any locally stored data on the user's device is removed.
+- The user account and all server-side data associated with the account (such as identity information and AI chat history) are **permanently deleted**.
+- Account deletion does **not automatically remove data stored locally on the user’s device** that is not associated with the account.
 - Data that must be retained to comply with legal obligations may be excluded and retained only for the legally required period, after which it is securely deleted.
 
 ## 6. Third-Party Services
