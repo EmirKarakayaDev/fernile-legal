@@ -27,10 +27,12 @@ Users may like, dislike, or submit feedback regarding AI-generated responses. Su
 Data is stored on secure servers and protected against unauthorized access. Data is retained only for as long as necessary for its intended purpose.
 
 ## 5. Account Deletion and Data Removal
-Users may delete their accounts directly through the application at any time without contacting support.
+Users can delete their accounts and all associated personal data **directly from within the application** at any time, without contacting support.
+For security purposes, users are required to **re-authenticate (confirm their password)** before the account deletion process is completed.
 Upon account deletion:
-- The user account and all associated personal data are permanently deleted.
-- Data required to be retained due to legal obligations may be excluded and retained only for the legally required period.
+- The user account and all associated personal data are permanently deleted from our systems.
+- Any locally stored data on the user's device is removed.
+- Data that must be retained to comply with legal obligations may be excluded and retained only for the legally required period, after which it is securely deleted.
 
 ## 6. Third-Party Services
 The application may utilize third-party services for infrastructure, analytics, artificial intelligence, and subscription management. These services are subject to their own privacy policies.
