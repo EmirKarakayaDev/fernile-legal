@@ -28,7 +28,7 @@ amacıyla kullanılır.
 Veriler, güvenli sunucular üzerinde saklanır ve yetkisiz erişime karşı korunur. Veriler, yalnızca gerekli olduğu süre boyunca tutulur.
 
 ## 5. Hesap Silme ve Veri Silme
-Uygulama, hesap oluşturmadan da kullanılabilir. Hesap oluşturulmadan kullanılan özelliklere ait veriler (örneğin; Kur’an okuma ilerlemesi, son okunan yerler, zikir verileri, kaydedilen ayetler ve notlar, namaz vakti için seçilen şehir bilgileri) **kullanıcının cihazında yerel olarak saklanır**.
+Uygulama, hesap oluşturmadan da kullanılabilir. Hesap oluşturulmadan kullanılan özelliklere ait veriler (örneğin; Kur’an okuma ilerlemesi, son okunan yerler, zikir verileri, kaydedilen ayetler ve notlar, namaz vakti için seçilen şehir bilgileri gibi) **kullanıcının cihazında yerel olarak saklanır**.
 
 Kullanıcılar, hesap oluşturmuş olmaları halinde, hesaplarını **uygulama içinden** silebilir. Güvenlik amacıyla, hesap silme işlemi tamamlanmadan önce kullanıcıdan **yeniden kimlik doğrulama (şifre doğrulaması)** istenir.
 
