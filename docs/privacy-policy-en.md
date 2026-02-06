@@ -26,7 +26,7 @@ Users may like, dislike, or submit feedback regarding AI-generated responses. Su
 ## 4. Data Storage
 Data is stored on secure servers and protected against unauthorized access. Data is retained only for as long as necessary for its intended purpose.
 
-## Account Deletion and Data Removal
+## 5. Account Deletion and Data Removal
 Users may delete their accounts directly through the application at any time without contacting support.
 Upon account deletion:
 - The user account and all associated personal data are permanently deleted.
