@@ -32,6 +32,8 @@ Uygulama, hesap oluşturmadan da kullanılabilir. Hesap oluşturulmadan kullanı
 
 Kullanıcılar, hesap oluşturmuş olmaları halinde, hesaplarını **uygulama içinden** silebilir. Güvenlik amacıyla, hesap silme işlemi tamamlanmadan önce kullanıcıdan **yeniden kimlik doğrulama (şifre doğrulaması)** istenir.
 
+Uygulamaya artık erişemeyen kullanıcılar, bu politikanın İletişim bölümünde belirtilen e-posta adresi üzerinden bizimle iletişime geçerek hesap ve veri silme talebinde bulunabilirler.
+
 Hesap silme işlemi sonrasında:
 - Kullanıcı hesabı ve hesaba bağlı olarak sunucu tarafında tutulan tüm veriler (örneğin, kimlik bilgileri ve yapay zekâ sohbet geçmişi) **kalıcı olarak silinir**.
 - Hesap silme işlemi, kullanıcının cihazında yerel olarak saklanan ve hesapla ilişkilendirilmeyen verileri **otomatik olarak silmez**.
